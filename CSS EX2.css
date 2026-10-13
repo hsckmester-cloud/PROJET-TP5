@@ -1,0 +1,20 @@
+table {
+    border: 1px solid #f80000;
+    border-collapse: collapse;
+    margin: 30px auto;
+
+}
+
+th, td {
+    border: 1px solid #ff0000;
+    padding: 12px;
+    text-align: center;
+}
+
+th {
+    background-color: #3b92da;
+}
+
+td:hover {
+    background-color: #00c7eb;
+}
